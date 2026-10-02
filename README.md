@@ -42,7 +42,7 @@ My work focuses on patient safety, risk management, privacy, regulatory complian
 A city built from my actual public GitHub contributions. The daily workflow generates the image after setup; tower heights reflect contribution activity, not healthcare outcomes.
 
 <!-- The workflow inserts the city image here after its first successful run. -->
-<!-- CITY_IMAGE -->
+<img src="assets/contribution-city.svg" width="100%" alt="Isometric city generated from my actual public GitHub contributions." />
 
 ## 🤝 Let's connect
 
